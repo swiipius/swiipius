@@ -6,7 +6,7 @@
 <br>
 
 - 🔭 I’m currently working on **Gazebo**
-- 
+
 - 🌱 I’m currently learning **Thread**
 
 - 📫 How to reach me **pierre.simond@edu.ece.fr**
