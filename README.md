@@ -1,29 +1,13 @@
-### Hi there 👋
-
-<!--
-**swiipius/swiipius** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
--->
-
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 
-<h1 align="center">Hi 👋, I'm Pierre SIMOND</h1>
+<h1 align="center">Hi 👋, I'm Pierre SIMOND </h1>
 <h3 align="justify">A student at ECE, a french engineering school. I'm in the major Embedded Systems and I have a passion for domotics. I'm specializing in smart home systems and has a background in programming, electronics, and robotics.</h3>
 
 <br>
 
-- 🌱 I’m currently learning **Gazebo**
+- 🔭 I’m currently working on **Gazebo**
+- 
+- 🌱 I’m currently learning **Thread**
 
 - 📫 How to reach me **pierre.simond@edu.ece.fr**
 
@@ -41,12 +25,10 @@ Here are some ideas to get you started:
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
 <a href="https://www.arduino.cc//" target="_blank" rel="noreferrer"> <i class="devicon-arduino-plain-wordmark colored"></i> </a>
 <a href="https://www.raspberrypi.com/" target="_blank" rel="noreferrer"> <i class="devicon-raspberrypi-line colored"></i> </a>
-
 <a href="https://mqtt.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/github/explore/6afe2c43768e7ef1e252839a1f1c12b730faa007/topics/mqtt/mqtt.png" width="40" height="40"></img> </a>
 <a href="https://www.home-assistant.io/" target="_blank" rel="noreferrer"> <img src="https://github.com/home-assistant/assets/blob/master/logo/logo-pretty.png" alt="homeassistant" width="40" height="40"></img> </a>
 <a href="https://gazebosim.org/home" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/G/gazebo-logo-51C46471CA-seeklogo.com.png" alt="gazebo" width="40" height="40"></img> </a>
