@@ -47,10 +47,10 @@ Here are some ideas to get you started:
 <a href="https://www.arduino.cc//" target="_blank" rel="noreferrer"> <i class="devicon-arduino-plain-wordmark colored"></i> </a>
 <a href="https://www.raspberrypi.com/" target="_blank" rel="noreferrer"> <i class="devicon-raspberrypi-line colored"></i> </a>
 
-<a href="https://mqtt.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/github/explore/6afe2c43768e7ef1e252839a1f1c12b730faa007/topics/mqtt/mqtt.png"></img> </a>
-<a href="https://www.home-assistant.io/" target="_blank" rel="noreferrer"> <img src="https://github.com/home-assistant/assets/blob/master/logo/logo-pretty.png" alt="homeassistant"></img> </a>
-<a href="https://gazebosim.org/home" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/G/gazebo-logo-51C46471CA-seeklogo.com.png" alt="gazebo"></img> </a>
-<a href="https://docs.ros.org/en/galactic/index.html" target="_blank" rel="noreferrer"> <img src="https://images.squarespace-cdn.com/content/v1/606d378755a86f589aa297b7/1621897385511-NS0QWVKNHWBGWPM39B7L/ros_logo_large.png" alt="ros2 galactic"></img> </a>
+<a href="https://mqtt.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/github/explore/6afe2c43768e7ef1e252839a1f1c12b730faa007/topics/mqtt/mqtt.png" width="40" height="40"></img> </a>
+<a href="https://www.home-assistant.io/" target="_blank" rel="noreferrer"> <img src="https://github.com/home-assistant/assets/blob/master/logo/logo-pretty.png" alt="homeassistant" width="40" height="40"></img> </a>
+<a href="https://gazebosim.org/home" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/G/gazebo-logo-51C46471CA-seeklogo.com.png" alt="gazebo" width="40" height="40"></img> </a>
+<a href="https://docs.ros.org/en/galactic/index.html" target="_blank" rel="noreferrer"> <img src="https://images.squarespace-cdn.com/content/v1/606d378755a86f589aa297b7/1621897385511-NS0QWVKNHWBGWPM39B7L/ros_logo_large.png" alt="ros2 galactic" width="40" height="40"></img> </a>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=swiipius&show_icons=true&locale=en" alt="swiipius" /></p>
 
