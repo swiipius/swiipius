@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 
 <h1 align="center">Hi 👋, I'm Pierre SIMOND</h1>
-<h3 align="justify">A student at ECE, a french engineering school. I love coding for me is like a game where the goal is to find the right combination of elements to get what you want. At the end of my studies I would like to specialize in cyber security.</h3>
+<h3 align="justify">A student at ECE, a french engineering school. I'm in the major Embedded Systems and I have a passion for domotics. I'm specializing in smart home systems and has a background in programming, electronics, and robotics.</h3>
 
 <br>
 
