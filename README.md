@@ -22,7 +22,7 @@
 
 <p>
   <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=swiipius&show_icons=true&locale=en&show_icons=true&theme=gruvbox" alt="swiipius" />
-  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swiipius&layout=compact&show_icons=true&theme=gruvbox"/>
+<!--   <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swiipius&layout=compact&show_icons=true&theme=gruvbox"/> -->
 </p>
 
 <p>&nbsp;</p>
