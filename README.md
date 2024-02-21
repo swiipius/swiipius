@@ -6,7 +6,7 @@
 
 <br>
 
-- 🔭 I’m currently working on **Django**
+- 🔭 I’m currently working on **Python x Rasperry PI**
 
 - 🌱 I’m currently learning **Thread**
 
