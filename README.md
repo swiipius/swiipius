@@ -46,8 +46,8 @@
 <br/>
 <!-- ARECE -->
 <a href="https://docs.ros.org/en/galactic/index.html" target="_blank" rel="noreferrer"> <img src="https://images.squarespace-cdn.com/content/v1/606d378755a86f589aa297b7/1621897385511-NS0QWVKNHWBGWPM39B7L/ros_logo_large.png" alt="ros2 galactic" width="40" height="40"></img> </a>
-<a href="https://gazebosim.org/home" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/G/gazebo-logo-51C46471CA-seeklogo.com.png" alt="gazebo" width="40" height="40"></img> </a>
-<a href="https://foxglove.dev/" target="_blank" rel="noreferrer"> <img src="https://foxglove.dev/images/logo-icon-round.png" alt="ros2 galactic" width="40" height="40"></img> </a>
+<a href="https://gazebosim.org/home" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/en/5/5e/Gazebo_logo_without_text.svg" alt="gazebo" width="40" height="40"></img> </a>
+<a href="https://foxglove.dev/" target="_blank" rel="noreferrer"> <img src="https://cdn.prod.website-files.com/66a36245725199d12625c1d5/66cc0d0a97f1a44cf47fffc1_logo-icon-round.png" alt="foxglove" width="40" height="40"></img> </a>
 <br/>
 <!-- Language -->
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"  alt="c" width="40" height="40" /> </a>
