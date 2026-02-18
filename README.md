@@ -3,6 +3,7 @@
 <h1 align="center">Hi 👋, I'm Pierre SIMOND </h1>
 <h3 align="justify">An IoT developper and Embedded System Engineer. I have a passion for domotics and smart cities. I am looking for a job in either robotics or IoT</h3>
 <h3>Also involved in the Formula Student, first french team in the autonomous cetgory. As a further member, I am now a mentor. You can check the team here:<a href="https://github.com/arece-fs" target="_blank" rel="noreferrer"> <img src="https://media.licdn.com/dms/image/v2/C4E0BAQGKWjzWcdKmug/company-logo_200_200/company-logo_200_200/0/1673287470543/autonomous_racing_ece_logo?e=2147483647&v=beta&t=0-eBGa2L6BzDFRJTqjKKKHoPxKNBvcJJK_LmY0DnObk" height="30" align="center" /> </a></h3>
+<h3>Currently working at <a>LMX Bikes</a> on the LMX56 and lightweight vehicles</h3>
 
 <br>
 
